@@ -22,6 +22,4 @@ A simple Telegram bot that allows users to **buy and sell items** directly in ch
 - pyTelegramBotAPI (telebot)  
 - dotenv  
 
----
 
-## 📂 Project Structure
